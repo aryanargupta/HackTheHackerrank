@@ -4,7 +4,7 @@ This repo aims to publish solutions to questions on hackerrank.
 
 
 ### Contribution
-Since, the repo at this moment, is in its initial stage, pull requests shall be directly reviewed without opening issues and assigning.
+Since, the repo at this moment, is in its initial stage, pull requests maybe directly reviewed. But ofc you can always open issues so as to follow a better workflow.
 
 
 
