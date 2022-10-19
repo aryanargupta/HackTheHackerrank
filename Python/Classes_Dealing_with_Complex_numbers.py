@@ -1,4 +1,9 @@
-# prints the sum, difference, multiplication, division, mod of a number with the other
+# The program uses the classes to perform operations in Complex numbers
+"""
+title : Classes : Dealing with COmplex Numbers
+Source : Hackerrank > Prepare > Python > Classes
+URL : https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true
+"""
 
 class Complex(object):
     def __init__(self, real, imaginary):
