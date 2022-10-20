@@ -4,7 +4,7 @@ This repo aims to publish solutions to questions on hackerrank.
 
 
 ### Contribution
-Since, the repo at this moment, is in its initial stage, pull requests maybe directly reviewed. But ofc you can always open issues so as to follow a better workflow. Read <a href="CONTRIBUTING.md">CONTRIBUTION.md</a> for more details.
+Please read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for the GuideLines (Updated, and now without creating the issue, PRs won't be accepted).
 
 
 
