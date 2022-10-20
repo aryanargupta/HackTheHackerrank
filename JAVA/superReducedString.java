@@ -1,3 +1,15 @@
+
+
+
+// *************************************************************************************************************
+
+//  Title: Super Reduced String
+//  Original question link : https://www.hackerrank.com/challenges/reduced-string/problem?h_r=profile
+
+// *************************************************************************************************************
+
+
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
@@ -32,6 +44,10 @@ class Result {
         else return String.valueOf(sb);
 
     }
+
+//--> In this we need to check to pair of similar characters and if found we need to delete it
+//--> So we just compared the character at index at i and i+1 (the next charecter) if both are similar we need to delete it and if not matched we will increase the index
+//--> If we found the pair we delete the pair and now set the index to -1 again so that the loop will be traversed again for new pairs
 
 }
 
