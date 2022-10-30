@@ -73,6 +73,14 @@ git push -u origin <your_branch_name>
 
 **15.** Woohoo! You have made a PR to the community-website :boom: . Wait for your submission to be accepted and your PR to be merged.
 </div>
+**Some things to keep in mind before sending your PR: Your solution should cite the question link, have the title, and provide brief explanation of the approach taken into account in the comments, in the order:**
+1) Title
+2) Question Link
+3) Brief Explanation of Approach
+4) Solution
+5) Concluding comments (if any).
+
+**Note:** Question descirption should NOT be included in your solution code.
 
 **Thank you for your interest in contributing to our Repo!🏼**
 
