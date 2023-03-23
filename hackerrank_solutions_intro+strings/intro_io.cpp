@@ -1,3 +1,7 @@
+//INPUT AND OUTPUT
+//QUESTION LINK:- https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true
+
+//APPROACH:- taking input using cin function and adding using + operator and then output using cout function.
 #include <cmath>
 #include <cstdio>
 #include <vector>
