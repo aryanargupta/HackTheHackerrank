@@ -1,3 +1,8 @@
+//STRINGS
+//QUESTION LINK:- https://www.hackerrank.com/challenges/c-tutorial-strings/problem?isFullScreen=true
+
+//APPROACH:- using the size() function, we calculate the length of both the strings. Using the '+' operator, we concatenate the strings.
+//we access the elements of strings just like we access the elements of arrays and using this, we swap the first element of both the strings.
 #include <bits/stdc++.h>
 using namespace std;
 
