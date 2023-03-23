@@ -1,3 +1,7 @@
+//CONDITIONAL STATEMENTS
+//QUESTION LINK:- https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true
+
+//APPROACH:- using if, else if and else, we can output the required stuff.
 #include <bits/stdc++.h>
 using namespace std;
 
