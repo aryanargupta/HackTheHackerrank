@@ -1,3 +1,8 @@
+//FUNCTIONS
+//QUESTION LINK:- https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=true
+
+//APPROACH:- in the function, we have compared each of the number to get the maximum of the four using conditionals and then called the function
+// inside the main function and then output it.
 #include <iostream>
 #include <cstdio>
 using namespace std;
