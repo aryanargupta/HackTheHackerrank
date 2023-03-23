@@ -1,3 +1,7 @@
+//FOR LOOP
+//QUESTION LINK:- https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?isFullScreen=true
+
+//APPROACH:- using for loop and if else conditionals, we can present the desired output.
 #include <iostream>
 #include <cstdio>
 using namespace std;
