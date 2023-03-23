@@ -1,3 +1,11 @@
+//STRINGSTREAM
+//QUESITON LINK:- https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem?isFullScreen=true
+
+//APPROACH:- the stringstream class is used to perform insertion and extraction like operations.
+// we used stringstream ss to store str in ss to easily extract the elements from the string.
+// we use the '>>' operator to access the elements from the stringstream.
+// while there are integers in ss, we push them in the vector named 'parse' and push the commas in a character vector 'c'.
+// we return the parse vector.
 #include<bits/stdc++.h>
 using namespace std;
 
