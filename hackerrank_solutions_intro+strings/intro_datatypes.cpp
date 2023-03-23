@@ -1,3 +1,7 @@
+//BASIC DATATYPES
+//QUESTION LINK:- https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true
+
+//APPROACH:- using different data types and their format specifiers, we can present the desired output.
 #include <cmath>
 #include <cstdio>
 #include <vector>
